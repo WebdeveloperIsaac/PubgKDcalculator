@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "KD ratio calculator"

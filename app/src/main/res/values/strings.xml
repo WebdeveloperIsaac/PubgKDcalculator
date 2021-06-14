@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KD ratio calculator</string>
+    <string name="enter_the_number_of_matches_played">Enter the Total Number of Matches Played</string>
+    <string name="enter_the_total_number_of_kills">Enter the Total Number of Kills</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="tip">TIP : Dont die with 0 kills That decreases your KD Tremendously!!!</string>
+    <string name="Squad">The Development Squad: Amaresh,Rohit,Sanjay,Isaac</string>
+    <string name="this_app_has_no_ads">This Application Maintains NO ADS Policy</string>
+    <string name="matches">matches</string>
+    <string name="kills">Kills</string>
+
+</resources>
